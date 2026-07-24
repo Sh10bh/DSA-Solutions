@@ -4,7 +4,7 @@
 [![Sync](https://img.shields.io/badge/Sync-LeetHub_AI-brightgreen?style=for-the-badge)]()
 [![Focus](https://img.shields.io/badge/Goal-Technical_Placements-blue?style=for-the-badge)]()
 
-Welcome to my central repository for algorithmic problem-solving. As a third-year Computer Science and Engineering student actively pursuing technical placements and machine learning internships, this repository serves as a live, automated log of my daily code execution and optimization practice.
+Welcome to my central repository for algorithmic problem-solving. As a final year Computer Science and Engineering student actively pursuing technical placements and machine learning internships, this repository serves as a live, automated log of my daily code execution and optimization practice.
 
 ## 🎯 The Objective
 Writing highly optimized code is the foundation of scalable software. I maintain this repository to enforce a strict daily discipline of conquering complex algorithmic challenges on **LeetCode** and **GeeksforGeeks**. 
